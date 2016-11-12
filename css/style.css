@@ -1,0 +1,143 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+@font-face {
+	font-family: myriad pro;
+	src: url('../fonts/myriadproregular.woff');
+}
+
+body {
+	background-color: #F4F4F4;
+}
+
+.wrapper {
+	width: 1024px;
+	height: 1024px;
+	margin: 0 auto;
+} 
+
+
+.info {
+	
+	padding-top: 55px;
+	padding-left: 259px;
+	padding-right: 262px;
+}
+
+h1 {
+	font-family: arial;
+	font-size: 36px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #010101;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+
+img {
+	width: 202px;
+	height: 202px;
+	text-align: center;
+	margin-left: 146px;
+}
+
+.about {
+	font-family: arial;
+	font-size: 14px;
+	font-weight: 400;
+	color: #1f1f1f;
+	margin-top: 15px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #656466;
+}
+
+.why {
+	font-family: myriad pro;
+	font-size: 18px;
+	font-weight: bold;
+	color: #1f1f1f;
+	word-spacing: 4px;
+	margin-top: 17px;
+	margin-bottom: 21px;
+}
+
+ul 	{
+	font-family: myriad pro;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18px;
+	color: #3b3b3b;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #656466;
+	margin-bottom: 15px;
+}
+
+li {
+	margin-left: 30px;
+	padding-left: 4px;
+}
+.call {
+	font-family: myriad pro;
+	font-size: 18px;
+	font-weight: bold;
+	color: #1f1f1f;
+	word-spacing: 3px;
+	}
+
+.call p {
+	font-family: myriad pro;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18px;
+	color: #3b3b3b;
+	margin-top: 20px;
+	margin-left: 35px;
+	margin-bottom: 12px;
+}
+
+.facebook {
+	font-family: myriad pro;
+	font-size: 18px;
+	font-weight: bold;
+	color: #1f1f1f;
+	word-spacing: 2px;
+	margin-bottom: 17px;
+}
+
+.link {
+	margin-top: 16px;
+}
+
+.facebook a {
+	font-family: myriad pro;
+	font-size: 14px;
+	line-height: 18px;
+	color: #0056d3;
+	font-style: italic;
+	margin-left: 35px;
+}
+
+.feedback  {
+	font-family: myriad pro;
+	font-size: 18px;
+	font-weight: bold;
+	color: #1f1f1f;
+	word-spacing: 2px;
+	border-top: 1px solid #656466;
+	padding-top: 16px;
+
+}
+
+.feedback p {
+	font-family: myriad pro;
+	font-size: 14px;
+	font-weight: 400;
+	color: #3b3b3b;
+	margin-left: 35px;
+	margin-top: 21px;
+}
+
+
